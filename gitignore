@@ -1,0 +1,20 @@
+# Python specific
+*.pyc            # Python compiled files
+__pycache__/     # Python cache directory
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/             # Python virtual environment
+
+# IDE-specific files
+.vscode/          # Visual Studio Code IDE
+.idea/            # PyCharm IDE
+
+# Compiled Python files
+*.pyc
+
+# Dependency directories
+bin/
+build/
